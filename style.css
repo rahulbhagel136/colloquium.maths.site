@@ -70,7 +70,7 @@ li a:hover:not(.active) {
     background-color: #4CAF50;
 }
 li a:hover, .dropdown:hover .dropbtn {
-    background-color: red;
+    background-color: #99ccff;
 }
 
 li.dropdown {
@@ -101,7 +101,7 @@ li.dropdown {
 }
 
 #id10{
-	float:right;
+	
 	background-color: #ccccff;
     width: 300px;
     height: 300px;
@@ -109,7 +109,7 @@ li.dropdown {
     overflow-x: hidden;
     overflow-y: scroll;
 	padding:20px;
-	margin-right:30px;
+	margin-left:30px;
 	margin-top:50px;
 	margin-bottom:10px;
 }
