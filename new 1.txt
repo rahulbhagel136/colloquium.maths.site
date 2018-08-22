@@ -1,0 +1,23 @@
+<div id="id1">
+<button style="background-color:#ff4d4d" type="button"><a id="id2" href="#">Home</a></button>
+<button style="background-color:#ff4d4d" type="button"><a id="id3" href="#">Faculty &#9656;</a></button>
+<button style="background-color:#ff4d4d" type="button"><a id="id4" href="#">Research &#9656;</a></button>
+<button style="background-color:#ff4d4d" type="button"><a id="id5" href="#">Projects &#9656;</a></button>
+<button style="background-color:#ff4d4d" type="button"><a id="id6" href="#">Colloquium</a></button>
+<button style="background-color:#ff4d4d" type="button"><a id="id7" href="#">Downloads</a></button>
+<button style="background-color:#ff4d4d" type="button"><a id="id8" href="#">Ph.D &#9656;</a></button>
+<button style="background-color:#ff4d4d" type="button"><a id="id9" href="#">Undergraduate &#9656;</a></button>
+</div>
+
+
+
+
+
+
+<h3>Search</h3>
+        <form method="post" action="#" id="search_form">
+          <p>
+            <input class="search" type="text" name="search_field" value="Enter keywords....." />
+            <input name="search" type="image" style="border: 0; margin: 0 0 -9px 5px;" src="style/search.png" alt="Search" title="Search" />
+          </p>
+        </form>

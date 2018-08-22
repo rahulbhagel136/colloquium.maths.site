@@ -67,6 +67,13 @@ form
     margin-right: auto;
 }
 
+.banerjee_sir{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	width:30%;
+}
+
 #head{
 	display: block;
     margin-left: auto;
